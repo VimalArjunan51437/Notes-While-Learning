@@ -1,3 +1,6 @@
+# While using this program you need to " TURN ON " the less secure app access setting in the sender mail.
+# Manage your account -> Security -> Less sure app acces -> TURN ON
+
 import smtplib
 
 import stdiomask
